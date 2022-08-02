@@ -5,6 +5,8 @@
 
 Full Stack Developer con estudios en Mecatrónica. Vengo trabajando con las siguientes tecnologias HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres SQL, Sequelize, Python, Typescript. Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía. Actualmente busco ser parte de un equipo líder en trabajos de desarrollo web.
 
+Skills:  HTML / CSS / Javascript / React / Redux / Node.js  / Express / Postgres SQL / Sequelize / Python / Typescript 
+
 - 📫 Cómo contactarme: enmanuelpaulcarrillo.rakata900@gail.com 
 - 💬 Pregúntame sobre:  HTML, CSS, Javascript, React, Redux, Node.js, Express,  Postgres SQL, Sequelize, Python, Typescript 
 
