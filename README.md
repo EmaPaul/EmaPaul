@@ -7,7 +7,7 @@ Full Stack Developer con estudios en Mecatrónica. Vengo trabajando con las sigu
 
 Skills:  HTML / CSS / Javascript / React / Redux / Node.js  / Express / Postgres SQL / Sequelize / Python / Typescript 
 
-- 📫 Cómo contactarme: enmanuelpaulcarrillo.rakata900@gail.com 
+- 📫 Cómo contactarme: enmanuelpaulcarrillo.rakata900@gmail.com
 - 💬 Pregúntame sobre:  HTML, CSS, Javascript, React, Redux, Node.js, Express,  Postgres SQL, Sequelize, Python, Typescript 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmaPaul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emmanuel-pa%C3%BAl-carrillo-carpio//)  
