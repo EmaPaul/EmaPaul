@@ -10,10 +10,5 @@ Skills:  HTML / CSS / Javascript / React / Redux / Node.js  / Express / Postgres
 - 📫 Cómo contactarme: enmanuelpaulcarrillo.rakata900@gmail.com
 - 💬 Pregúntame sobre:  HTML, CSS, Javascript, React, Redux, Node.js, Express,  Postgres SQL, Sequelize, Python, Typescript 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmaPaul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emmanuel-pa%C3%BAl-carrillo-carpio//)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmaPaul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/emmanuel-pa%C3%BAl-carrillo-carpio//)  
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmaPaul)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmaPaul&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EmaPaul) ](url) 
